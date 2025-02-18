@@ -39,6 +39,8 @@ cd Whos-That-Pokemon
 ```
 
 ### 2️⃣ Install Dependencies
+I have shared the Pokémon Font file.
+
 Make sure you have Python installed, then run:
 ```sh
 pip install -r requirements.txt
