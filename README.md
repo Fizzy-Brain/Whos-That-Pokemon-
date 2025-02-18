@@ -23,7 +23,7 @@ Welcome to **Who's That Pokémon??**, a machine learning-based Pokémon classifi
  ├── 📝 README.md        # Project Documentation
  ├── 🖼 Pokemon_Classifier.py  # CNN model training script
  ├── 🔍 pokemon_finder.py   # Pokémon identification script
- ├── 📂 dataset/           # Folder for Pokémon images (not included)
+ ├── 📂 dataset/           # Folder for Pokémon images (dowload link provided)
  ├── 📦 mark2.keras        # Pre-trained model file (to be generated)
  ├── 📜 requirements.txt   # Required dependencies
 ```
@@ -45,7 +45,8 @@ pip install -r requirements.txt
 ```
 
 ### 3️⃣ Prepare the Dataset
-- Place Pokémon images inside a dataset directory.
+- I have downloaded the Pokémon Dataset from Kaggle.
+- You can get it from this link. https://www.kaggle.com/datasets/lantian773030/pokemonclassification
 - Ensure the structure follows:
   ```
   dataset/
